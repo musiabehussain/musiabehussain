@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next Js, React Native**
 
-- 💬 Ask me about **anything via [here](https://www.linkedin.com/in/musiabe-yash-1740b5213/)**
+- 💬 Ask me about **anything [here](https://www.linkedin.com/in/musiabe-yash-1740b5213/)**
 
 - 📄 Know about my experiences - [CV]("")
 
