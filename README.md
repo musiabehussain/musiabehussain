@@ -4,14 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safciezgi&label=Profile%20views&color=0e75b6&style=plastic" alt="safciezgi" /> </p>
 
-- 🎓 I graduated from **Atılım University** with bachelor degree in **Computer Engineering**
+- 🎓 I graduated from **karakoram international university** with bachelor degree in **Computer Engineering**
 - 🔭 Currently working on **Front-End technologies**
 
-- 🌱 I’m currently learning **Angular, React Native**
+- 🌱 I’m currently learning **Next Js, React Native**
 
 - 💬 Ask me about **anything via [here](https://www.linkedin.com/in/musiabe-yash-1740b5213/)**
 
-- 📄 Know about my experiences - [CV](https://drive.google.com/file/d/10q5U9Bf4g1Tx_gc1aUQfl4quG7aVE3v7/view?usp=sharing)
+- 📄 Know about my experiences - [CV]("")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
