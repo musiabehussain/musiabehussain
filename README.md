@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 <img alt="Coding" align="right" src="https://miro.medium.com/max/960/1*Z7OapRMh3G-KCyaEKVFLiw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safciezgi&label=Profile%20views&color=0e75b6&style=plastic" alt="safciezgi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=safciezgi&label=Profile%20views&color=0e75b6&style=plastic" alt="safciezgi" /> </p>
 
 - 🎓 I graduated from **karakoram international university** with bachelor degree in **Computer Engineering**
 - 🔭 Currently working on **Front-End technologies**
