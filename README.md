@@ -21,7 +21,8 @@ I am  a self-starter, a quick learner, and are adept at turning high-level guida
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw1vFrBmqz5h5V3xVgigoley&ust=1654583521052000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDe9IqamPgCFQAAAAAdAAAAABAD">
+    <img src="![image](https://user-images.githubusercontent.com/78796824/172107939-bc783b0c-323b-4216-b8e5-afdefc93ba8c.png)
+">
 </div>
 </p>
 
