@@ -2,9 +2,17 @@
   <b>Musiabe Hussain</b>
 </h1>
 
-Heya! I'm Musiabe Hussain, a developer currently living in Gilgit, Pakistan. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+Heya! Iam Musiabe Hussain
+I  have a Bachelor’s degree in Computer Science, Engineering, or a comparable field from an accredited institution
+I have  over two  years of general experience in software development across multiple languages and frameworks
+I have over two years of experience in JavaScript (specifically ES6), TypeScript, React, and front-end web development (e.g., HTML, CSS) 
+I have experience working with React, web components, and functional interfaces
+I have  experience with back-development 
+I have experience working with RESTful APIs
+I have knowledge of Software Design principles and various architectural patterns
+I have demonstrated the ability to develop high-quality code adhering to industry best practices (i.e., code review, unit tests, revision control)
+I have a work history reflective of a self-motivated professional who excels when given open-ended problems and broadly defined goals, having an innate desire to leverage their skills in a way that provides business value
+I am  a self-starter, a quick learner, and are adept at turning high-level guidance into action-oriented plans..
 
 <br>
 
