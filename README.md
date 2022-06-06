@@ -24,7 +24,7 @@ I am  a self-starter, a quick learner, and are adept at turning high-level guida
 </p>
 
 ```python
-class AbhigyanTrips():
+class musiabeHussain():
     
   def __init__(self):
     self.name = "Musiabe Hussain";
@@ -37,7 +37,7 @@ class AbhigyanTrips():
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = musiabeHussain()
 ```
 
 <div align="center">
