@@ -20,8 +20,8 @@ I am  a self-starter, a quick learner, and are adept at turning high-level guida
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-    <img src="![image](https://user-images.githubusercontent.com/78796824/172107939-bc783b0c-323b-4216-b8e5-afdefc93ba8c.png)
+ 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png
 ">
 </div>
 </p>
