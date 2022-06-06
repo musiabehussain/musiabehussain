@@ -27,11 +27,11 @@ I am  a self-starter, a quick learner, and are adept at turning high-level guida
 class AbhigyanTrips():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.name = "Musiabe Hussain";
+    self.username = "musiabehussain";
+    self.location = "Gilgit, Pakistan";
+    self.Linkedin = "https://www.linkedin.com/in/musiabe-yash-1740b5213/";
+    self.facebook = "https://www.facebook.com/profile.php?id=100073595108212";
   
   def __str__(self):
     return self.name
