@@ -27,7 +27,7 @@ I am  a self-starter, a quick learner, and are adept at turning high-level guida
 class musiabeHussain():
     
   def __init__(self):
-    self.name = "Musiabe Hussain";
+    self.name = "Musiabe yash";
     self.username = "musiabehussain";
     self.location = "Gilgit, Pakistan";
     self.Linkedin = "https://www.linkedin.com/in/musiabe-yash-1740b5213/";
@@ -37,7 +37,7 @@ class musiabeHussain():
     return self.name
 
 if __name__ == '__main__':
-    me = musiabeHussain()
+    me = musiabeYash()
 ```
 
 <div align="center">
