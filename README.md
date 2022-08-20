@@ -69,6 +69,6 @@ if __name__ == '__main__':
 
 ------
 
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
+Credit: [MusiabeYash](https://github.com/abhigyantrips)
 
 Last Edited on: 24/12/2021
