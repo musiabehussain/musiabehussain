@@ -40,11 +40,6 @@ if __name__ == '__main__':
     me = musiabeYash()
 ```
 
-<div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100073595108212">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
 
 <!--
 <div align="center">
