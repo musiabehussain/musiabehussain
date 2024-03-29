@@ -4,8 +4,8 @@
 
 Heya! Iam Musiabe Hussain
 I  have a Bachelor’s degree in Computer Science, Engineering, or a comparable field from an accredited institution
-I have  over 3+  years of general experience in software development across multiple languages and frameworks
-I have over 3+ years of experience in JavaScript (specifically ES6), TypeScript, React, and front-end web development (e.g., HTML, CSS) 
+I have  over 5+  years of general experience in software development across multiple languages and frameworks
+I have over 5+ years of experience in JavaScript (specifically ES6), TypeScript, React, and front-end web development (e.g., HTML, CSS) 
 I have experience working with React, web components, and functional interfaces
 I have experience working with RESTful APIs
 I have knowledge of Software Design principles and various architectural patterns
