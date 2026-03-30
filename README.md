@@ -157,8 +157,8 @@ const stack = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=musiabehussain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=musiabehussain&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=00D4FF" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=musiabehussain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=musiabehussain&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=C9D1D9" alt="GitHub Streak"/>
 
 <br/>
 
@@ -166,8 +166,8 @@ const stack = {
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musiabehussain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=musiabehussain&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musiabehussain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=musiabehussain&theme=tokyonight" alt="Repos Per Language"/>
 
 </div>
 
