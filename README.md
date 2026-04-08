@@ -1,215 +1,238 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=10&section=header"/>
+</div>
 
-<!-- Futuristic Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:1a1a2e,100:16213e&height=250&section=header&text=MUSIABE%20HUSSAIN&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=00D4FF&stroke=00D4FF&strokeWidth=1&desc=Senior%20Full%20Stack%20Developer%20%7C%20Founder%20%40%20GBfixers.com&descSize=18&descAlignY=62&descAlign=50"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   UPWORK-STYLE PROFILE CARD                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%E2%9A%A1+Building+Scalable+Fullstack+Solutions;%F0%9F%8C%90+Founder+%26+Problem+Solver+%40+GBfixers.com;%F0%9F%9A%80+React+%7C+TypeScript+%7C+Node.js+%7C+5%2B+Years;%F0%9F%94%A7+Turning+Complex+Problems+Into+Clean+Code" alt="Typing SVG" />
-</a>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left" valign="top" width="72%">
 
-<br/>
+## &nbsp;Musiabe Hussain
+#### &nbsp;⚡ Senior Full Stack Developer &nbsp;·&nbsp; Founder @ GBfixers.com
 
-<!-- Portfolio Website Button -->
-<a href="https://musiabehussain.github.io">
-  <img src="https://img.shields.io/badge/🌐_View_Full_Portfolio-musiabehussain.github.io-00D4FF?style=for-the-badge&labelColor=0D0D0D" alt="Portfolio Website"/>
-</a>
+&nbsp;&nbsp;📍 &nbsp;Gilgit-Baltistan, Pakistan &nbsp;&nbsp;|&nbsp;&nbsp; 🕐 &nbsp;Responds in < 1 hr &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 &nbsp;[gbfixers.com](https://gbfixers.com)
+
+&nbsp;&nbsp;⭐⭐⭐⭐⭐ &nbsp;**5.0** &nbsp;(47 reviews) &nbsp;&nbsp;|&nbsp;&nbsp; ✅ &nbsp;**100% Job Success** &nbsp;&nbsp;|&nbsp;&nbsp; 🏆 &nbsp;**Top Rated**
+
+</td>
+<td align="right" valign="top" width="28%">
+
+<img src="https://img.shields.io/badge/%2418%2Fhr-HOURLY%20RATE-14B8C8?style=for-the-badge&labelColor=0D1117&color=14B8C8"/>
 
 <br/><br/>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/musiabe-yash-1740b5213/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="https://gbfixers.com">
-    <img src="https://img.shields.io/badge/GBfixers.com-00D4FF?style=for-the-badge&logo=firefoxbrowser&logoColor=0D0D0D&labelColor=00D4FF" alt="GBfixers"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100073595108212">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=musiabehussain&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
+<img src="https://img.shields.io/badge/●%20Available%20Now-3FB950?style=for-the-badge&labelColor=0D1117"/>
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+<div align="center">
+
+[Overview](#-about-me) &nbsp;·&nbsp; [Skills](#️-skills--technologies) &nbsp;·&nbsp; [Portfolio](#️-portfolio) &nbsp;·&nbsp; [Stats](#-github-stats) &nbsp;·&nbsp; [Contact](#-lets-connect)
+
 </div>
 
-## ◈ WHO AM I
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303462313038653934306235363135396135353935383235633132376337613266336139393333333834323430363631376635626139666263622f63617465676f72792d6a6767732f646576656c6f7065722d616e696d6174696f6e2e676966"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
 
-```typescript
-interface Developer {
-  name:       string;
-  title:      string;
-  company:    string;
-  location:   string;
-  experience: string;
-  portfolio:  string;
-  mission:    string;
-}
+<!-- ─── MAIN COLUMN ─── -->
+<td valign="top" width="68%">
 
-const musiabe: Developer = {
-  name:       "Musiabe Hussain",
-  title:      "Senior Full Stack Developer",
-  company:    "Founder @ GBfixers.com 🌐",
-  location:   "Gilgit-Baltistan, Pakistan 🏔️",
-  experience: "5+ Years in Production",
-  portfolio:  "https://musiabehussain.github.io 🚀",
-  mission:    "Fix Problems. Ship Fast. Build Right."
-};
+### 🧑‍💻 About Me
+
+> I'm a **Senior Full Stack Developer** with **5+ years of production experience**, specializing in **React**, **TypeScript**, and **Node.js**.
+>
+> I'm the founder of **[GBfixers.com](https://gbfixers.com)** — Gilgit-Baltistan's premier tech solutions platform, bridging the digital divide in the GB region.
+>
+> I don't just write code — I **architect solutions**. Clean Architecture, SOLID principles, performance & accessibility — built into every line.
+>
+> `Self-starter` &nbsp; `Fast Learner` &nbsp; `Business-First Mindset` &nbsp; `No hand-holding needed`
+
+---
+
+### 🛠️ Skills & Technologies
+
+**⚡ Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=14B8C8)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=14B8C8)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0A30A)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwind-css&logoColor=14B8C8)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/Sass-0D1117?style=flat-square&logo=sass&logoColor=CC6699)
+
+**🔩 Backend & Tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=3FB950)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-0D1117?style=flat-square&logo=webpack&logoColor=8DD6F9)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+
+**🏗️ Architecture & Practices**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-14B8C8?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-14B8C8?style=flat-square)
+![TDD](https://img.shields.io/badge/Test_Driven_Dev-14B8C8?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API_Design-14B8C8?style=flat-square)
+![Performance](https://img.shields.io/badge/Performance_Optimization-14B8C8?style=flat-square)
+![a11y](https://img.shields.io/badge/Accessibility_(a11y)-14B8C8?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive_Design-14B8C8?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-14B8C8?style=flat-square)
+
+---
+
+### 📊 Proficiency
+
+| Skill | Level |
+|:------|:------|
+| ⚛️ React & Modern Frontend | `████████████████████` 95% |
+| 🟦 TypeScript / JavaScript | `████████████████████` 95% |
+| 🏗️ Software Architecture   | `██████████████████░░` 90% |
+| 🔌 REST API Integration    | `██████████████████░░` 90% |
+| 🧪 Unit Testing & TDD      | `████████████████░░░░` 80% |
+| 🎨 UI/UX Implementation    | `████████████████░░░░` 80% |
+| 🖥️ Node.js / Backend       | `██████████████░░░░░░` 75% |
+| 🔄 CI/CD & Dev Workflows   | `██████████████░░░░░░` 70% |
+
+---
+
+### 🗂️ Portfolio
+
+| | Project | Stack |
+|:---:|:--------|:------|
+| 🌐 | **[GBfixers.com — Tech Solutions Platform](https://gbfixers.com)** <br/> Full-stack platform connecting GB residents with tech repair & digital solutions. Built from zero to production. | `React` `Node.js` `TypeScript` `REST API` |
+| ⚛️ | **Scalable React Component Library** <br/> Reusable, accessible component system with TypeScript generics and full unit test coverage. | `React` `TypeScript` `TDD` `a11y` |
+| 🔌 | **REST API Platform — Clean Architecture** <br/> Multi-tenant API system following SOLID principles with layered error handling. | `Node.js` `Express` `Clean Arch` |
+| 🚀 | **Performance Optimization — 3× Speed Gain** <br/> Refactored a legacy React app — 60% bundle reduction, LCP improved 3×. | `React` `Webpack` `Performance` |
+
+---
+
+### 💡 Problem Solving Philosophy
+
+```
+  IDENTIFY  →  DIAGNOSE  →  ARCHITECT  →  SHIP  →  ITERATE
+
+  "Don't patch symptoms. Fix root causes. Build to last.
+   Every bug is a clue. Every deploy is a promise kept."
+                                        — Musiabe Hussain
 ```
 
-<br clear="right"/>
+</td>
 
-> 🌐 **Want the full experience?** Check out my interactive portfolio site → **[musiabehussain.github.io](https://musiabehussain.github.io)**
+<!-- ─── GAP ─── -->
+<td valign="top" width="4%">&nbsp;</td>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- ─── SIDEBAR COLUMN ─── -->
+<td valign="top" width="28%">
+
+### 📌 At a Glance
+
+| | |
+|:---:|:---|
+| 🗓️ | **5+ Years** Experience |
+| 📁 | **47** Projects Done |
+| ✅ | **100%** Job Success |
+| ⭐ | **5.0** Rating |
+| 💰 | **$18** / hr |
+| ⚡ | **< 1 hr** Response |
 
 ---
 
-## ◈ GBFIXERS.COM — MY FLAGSHIP VENTURE
+### 🌐 GBfixers.com
 
-<div align="center">
+> Gilgit-Baltistan's premier **tech solutions platform** — fixing digital problems for real people, every day.
+>
+> ◆ Tech Repair & Support
+> ◆ Web & Software Solutions
+> ◆ Community Problem Solving
+> ◆ Bridging the Digital Divide
+
+[![Visit GBfixers](https://img.shields.io/badge/🌐_Visit_GBfixers.com-14B8C8?style=for-the-badge&labelColor=0D1117)](https://gbfixers.com)
+
+---
+
+### 📬 Hire Me
+
+**Open to:**
+- 💼 Remote Roles
+- 🤝 Consulting
+- 🔗 Collaborations
+- 🚀 High-Impact Projects
+
+[![LinkedIn](https://img.shields.io/badge/Hire_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musiabe-yash-1740b5213/)
+
+[![Portfolio Site](https://img.shields.io/badge/Full_Portfolio_Site→-14B8C8?style=for-the-badge&logo=firefoxbrowser&logoColor=0D1117)](https://musiabehussain.github.io)
+
+---
+
+### 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musiabe-yash-1740b5213/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/musiabehussain)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100073595108212)
+[![GBfixers](https://img.shields.io/badge/GBfixers.com-14B8C8?style=flat-square&logo=firefoxbrowser&logoColor=0D1117)](https://gbfixers.com)
+
+---
+
+### 📍 Location
 
 ```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                                                              ║
-  ║    🌐  GBfixers.com  —  Built by a Problem Solver            ║
-  ║    ─────────────────────────────────────────────────         ║
-  ║    Gilgit-Baltistan's premier tech solutions platform        ║
-  ║    fixing digital problems for real people, every day.       ║
-  ║                                                              ║
-  ║    ◆ Tech Repair & Support Services                          ║
-  ║    ◆ Web & Software Solutions                                ║
-  ║    ◆ Community-Driven Problem Solving                        ║
-  ║    ◆ Bridging the Digital Divide in GB Region               ║
-  ║                                                              ║
-  ╚══════════════════════════════════════════════════════════════╝
+Gilgit-Baltistan, Pakistan
+UTC +5:00
+
+✅ Available for Remote
+⚡ Full-time · Contract
+🕐 Replies in < 1 hour
 ```
 
-<a href="https://gbfixers.com">
-  <img src="https://img.shields.io/badge/🌐_Visit_GBfixers.com-Launch_Site→-00D4FF?style=for-the-badge&labelColor=0D0D0D" alt="GBfixers"/>
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=musiabehussain&style=flat-square&color=14B8C8&label=Profile+Views)
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=musiabehussain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8C8&icon_color=14B8C8&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=musiabehussain&theme=tokyonight&hide_border=true&background=0D1117&stroke=14B8C8&ring=14B8C8&fire=FF6B6B&currStreakLabel=14B8C8&sideLabels=14B8C8&dates=C9D1D9"/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=musiabehussain&custom_title=Contribution%20Timeline&bg_color=0D1117&color=14B8C8&line=14B8C8&point=FF6B6B&area_color=14B8C8&title_color=14B8C8&area=true&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musiabehussain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8C8&text_color=C9D1D9&langs_count=8"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
-
-## ◈ TECH STACK & ARSENAL
-
 <div align="center">
 
-### ⚡ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,html,css,tailwind,sass&perline=8&theme=dark" />
-</p>
+### 🚀 Let's Connect
 
-### 🔩 Backend & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,webpack,npm,vscode,figma&perline=8&theme=dark" />
-</p>
+**`Fix Problems. Ship Fast. Build Right.`**
 
-### 🏗️ Expertise Tags
-<p>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-00D4FF?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SOLID%20Principles-00D4FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Test%20Driven%20Dev-00D4FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/REST%20API%20Design-00D4FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Performance%20Optimization-00D4FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Accessibility%20(a11y)-00D4FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Responsive%20Design-00D4FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Design%20Patterns-00D4FF?style=flat-square"/>
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
----
-
-## ◈ WHAT I BRING TO THE TABLE
-
-<div align="center">
-
-|  | Skill | Proficiency |
-|:---:|:---|:---|
-| ⚛️ | **React & Modern Frontend** | ██████████ 95% |
-| 🟦 | **TypeScript / JavaScript** | ██████████ 95% |
-| 🏗️ | **Software Architecture** | █████████░ 90% |
-| 🔌 | **REST API Integration** | █████████░ 90% |
-| 🧪 | **Unit Testing & TDD** | ████████░░ 80% |
-| 🎨 | **UI/UX Implementation** | ████████░░ 80% |
-| 🖥️ | **Node.js / Backend** | ███████░░░ 75% |
-| 🔄 | **CI/CD & Dev Workflows** | ███████░░░ 70% |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
----
-
-## ◈ GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=musiabehussain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=musiabehussain&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=C9D1D9" alt="GitHub Streak"/>
+[![Hire Me](https://img.shields.io/badge/🚀_Hire_Me-Let's_Work_Together-14B8C8?style=for-the-badge&labelColor=0D1117)](https://www.linkedin.com/in/musiabe-yash-1740b5213/)
 
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=musiabehussain&custom_title=Contribution%20Timeline&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area_color=00D4FF&title_color=00D4FF&area=true&hide_border=true" alt="Activity Graph"/>
+*Crafted by [Musiabe Hussain](https://github.com/musiabehussain) · Founder @ [GBfixers.com](https://gbfixers.com) · 2025*
 
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musiabehussain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
----
-
-## ◈ LET'S BUILD SOMETHING GREAT
-
-<div align="center">
-
-**Open to high-impact roles, consulting, and collaborations.**
-
-<p>
-  <a href="https://musiabehussain.github.io">
-    <img src="https://img.shields.io/badge/🚀_Full_Portfolio-musiabehussain.github.io-00D4FF?style=for-the-badge&labelColor=0D0D0D"/>
-  </a>
-  <a href="https://www.linkedin.com/in/musiabe-yash-1740b5213/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://gbfixers.com">
-    <img src="https://img.shields.io/badge/GBfixers.com-Hire%20%2F%20Collaborate-00D4FF?style=for-the-badge&logo=firefoxbrowser&logoColor=0D0D0D"/>
-  </a>
-</p>
-
-<br/>
-
-```
-  📍  Gilgit-Baltistan, Pakistan   |   🌐 musiabehussain.github.io
-  💼  Open to Remote Opportunities |   ⚡ $18/hr  |  Fast Responder
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D0D0D&height=130&section=footer&text=Let's%20Fix%20It.%20Let's%20Build%20It.&fontSize=22&fontColor=00D4FF&animation=fadeIn&fontAlignY=55"/>
-
-</div>
-
----
-
-<div align="center">
-
-**⭐ Star repos you find useful — it means the world**
-
-*Crafted with precision by [Musiabe Hussain](https://musiabehussain.github.io) · Founder @ [GBfixers.com](https://gbfixers.com) · 2025*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:14B8C8&height=100&section=footer&animation=fadeIn"/>
 
 </div>
